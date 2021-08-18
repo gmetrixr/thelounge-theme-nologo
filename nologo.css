@@ -21,7 +21,7 @@ form.container h2 {
   display: none;
 }
 
-.connect-row {
+div#connect div.connect-row { /** increasing specificity to override previous rule */
   display: none;
 }
 
@@ -34,11 +34,11 @@ footer#footer {
   display: none;
 }
 
-button.menu {
+div#chat button.menu {
   display: none;
 }
 
-button.mentions {
+div#chat button.mentions {
   display: none;
 }
 
