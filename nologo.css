@@ -1,10 +1,47 @@
+/* STARTING SCREEN */
+/* Starting screen logo */
+img.logo {
+  display: none;
+}
+
+/* CONNECTION SCREEN */
 .logo-container {
   display: none;
 }
 
-.connect-row:nth-child(4),
+/* Login/Connect screen boxes. 3: Nick, 4: Name, 5: Realname, 6: Channels, 7: I have password checkbox */
+/* .connect-row:nth-child(4),
 .connect-row:nth-child(5),
 .connect-row:nth-child(7) {
   visibility: hidden;
   height: 0;
+} */
+
+form.container h1,
+form.container h2 {
+  display: none;
+}
+.connect-row {
+  visibility: none;
+  height: 0;
+}
+
+footer.footer {
+  display: none;
+}
+
+/* CHAT SCREEN */
+.jump-to-input {
+  display: none;
+}
+
+button.menu {
+  display: none;
+}
+button.mentions {
+  display: none;
+}
+
+.networks .channel-list-item {
+  display: none;
 }
