@@ -2,7 +2,9 @@
   display: none;
 }
 
-.connect-row:nth-child(4), .connect-row:nth-child(5), .connect-row:nth-child(7) {
+.connect-row:nth-child(4),
+.connect-row:nth-child(5),
+.connect-row:nth-child(7) {
   visibility: hidden;
   height: 0;
 }
