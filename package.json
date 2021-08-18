@@ -1,7 +1,8 @@
 {
   "name": "thelounge-theme-nologo",
   "version": "1.0.1",
-  "main": "index.js",
+  "description": "A no-logo theme for The Lounge",
+  "main": "package.json",
   "repository": "git@github.com:gmetrixr/thelounge-theme-nologo",
   "author": "Sahil Ahuja <sahilahuja@gmail.com>",
   "license": "MIT",
@@ -10,9 +11,9 @@
     "thelounge-theme"
   ],
   "thelounge": {
-    "css": "theme.css",
     "name": "Nologo",
-    "type": "theme"
+    "type": "theme",
+    "css": "nologo.css"
   },
   "devDependencies": {
     "stylelint": "^13.1.0",
