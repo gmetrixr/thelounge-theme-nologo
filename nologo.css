@@ -49,3 +49,7 @@ div#chat button.mentions {
 .networks > div > .channel-list-item { /** hide only the header (toggle container of chat rooms/network name) */
   display: none;
 }
+
+.hostmask { /** hiding user's IP address */
+  display: none;
+}
