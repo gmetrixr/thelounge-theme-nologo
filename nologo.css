@@ -1,5 +1,4 @@
 /* STARTING SCREEN */
-/* Starting screen logo */
 img.logo {
   display: none;
 }
@@ -9,8 +8,8 @@ img.logo {
   display: none;
 }
 
-/* Login/Connect screen boxes. 3: Nick, 4: Name, 5: Realname, 6: Channels, 7: I have password checkbox */
-/* .connect-row:nth-child(4),
+/* Login/Connect screen boxes. 3: Nick, 4: Name, 5: Realname, 6: Channels, 7: I have password checkbox
+.connect-row:nth-child(4),
 .connect-row:nth-child(5),
 .connect-row:nth-child(7) {
   visibility: hidden;
@@ -21,6 +20,7 @@ form.container h1,
 form.container h2 {
   display: none;
 }
+
 .connect-row {
   display: none;
 }
@@ -37,6 +37,7 @@ footer#footer {
 button.menu {
   display: none;
 }
+
 button.mentions {
   display: none;
 }
