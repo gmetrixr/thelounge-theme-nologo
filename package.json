@@ -1,0 +1,17 @@
+{
+  "name": "thelounge-theme-simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gmetrixr/thelounge-theme-simple",
+  "author": "Sahil Ahuja <sahilahuja@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "thelounge",
+    "thelounge-theme"
+  ],
+  "thelounge": {
+    "css": "theme.css",
+    "name": "Simple",
+    "type": "theme"
+  }
+}
