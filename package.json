@@ -1,6 +1,6 @@
 {
   "name": "thelounge-theme-nologo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A no-logo theme for The Lounge",
   "main": "package.json",
   "repository": "git@github.com:gmetrixr/thelounge-theme-nologo",
@@ -20,6 +20,6 @@
     "stylelint-config-standard": "^22.0.0"
   },
   "scripts": {
-    "test": "stylelint theme.css"
+    "test": "stylelint nologo.css"
   }
 }
