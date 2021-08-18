@@ -8,6 +8,10 @@ img.logo {
   display: none;
 }
 
+div.empty { /** left bar message that you are not connected to any networks yet */
+  display: none;
+}
+
 /* Login/Connect screen boxes. 3: Nick, 4: Name, 5: Realname, 6: Channels, 7: I have password checkbox
 .connect-row:nth-child(4),
 .connect-row:nth-child(5),

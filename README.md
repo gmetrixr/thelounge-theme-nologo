@@ -18,3 +18,5 @@ git tag v1.1.0
 git push
 git push --tags
 ```
+
+In VM: `docker exec --user node -it d_lounge thelounge upgrade thelounge-theme-nologo`

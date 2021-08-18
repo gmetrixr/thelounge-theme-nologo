@@ -1,6 +1,6 @@
 {
   "name": "thelounge-theme-nologo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "A no-logo theme for The Lounge",
   "main": "package.json",
   "repository": "git@github.com:gmetrixr/thelounge-theme-nologo",
