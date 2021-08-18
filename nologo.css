@@ -22,11 +22,10 @@ form.container h2 {
   display: none;
 }
 .connect-row {
-  visibility: none;
-  height: 0;
+  display: none;
 }
 
-footer.footer {
+footer#footer {
   display: none;
 }
 
@@ -42,6 +41,6 @@ button.mentions {
   display: none;
 }
 
-.networks .channel-list-item {
+.channel-list-item {
   display: none;
 }
