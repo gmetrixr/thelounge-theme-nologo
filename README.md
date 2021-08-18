@@ -1,5 +1,6 @@
-# Simple Theme for The Lounge: thelounge-theme-simple
-A simple theme for thelounge
+# Simple Theme for The Lounge: thelounge-theme-nologo
+
+A simple theme to whitelabel the default theme
 
 ## Installation
 
