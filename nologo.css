@@ -42,6 +42,6 @@ div#chat button.mentions {
   display: none;
 }
 
-.channel-list-item {
+.networks > div > .channel-list-item { /** hide only the header (toggle container of chat rooms/network name) */
   display: none;
 }
